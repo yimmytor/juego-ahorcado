@@ -2,6 +2,6 @@
 
 Simple juego del ahorcado creado con HTML, CSS, JavaScript, Bootstrap y jQuery.
 
-# Live Demo
+# Demo
 
 [Juego del Ahorcado](https://clever-roentgen-24df75.netlify.app/)
